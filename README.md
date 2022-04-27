@@ -1,6 +1,8 @@
+![altText](https://github.com/mkdir3/beck_tip/blob/main/screenshot.png)
 # Welcome to beck_studio tip!
 
 This is a simple vanilla JS, HTML & CSS web portfolio of AI generated Art.
+
 You can, if you already have a metamask wallet, send a eth tip.
 
 # I used...
